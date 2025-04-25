@@ -43,15 +43,6 @@ Watch the demo to see the project in action:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots under the `/screenshots` folder and reference them here.
-
-![App Screenshot](./screenshots/homepage.png)
-> *Main interface showing live price updates*
-
----
-
 
 ---
 
